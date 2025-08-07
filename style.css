@@ -84,3 +84,7 @@ div.content, header.navbar, footer.bottom {
 a.almost-invis {
     opacity: 1%;
 }
+
+ol {
+    list-style-type: upper-roman;
+}
