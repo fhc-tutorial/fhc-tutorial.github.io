@@ -15,6 +15,16 @@ a {
     color: white;
 }
 
+button.the-scary-button {
+    display: block;
+    background: #444444;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff0000;
+    border-radius: 10px;
+    padding: 10px;
+}
+
 header.navbar {
     height: 4em;
 }
