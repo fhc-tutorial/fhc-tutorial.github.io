@@ -70,7 +70,7 @@ div.content ul.contact li {
     list-style-type: none;
 }
 
-div.content, header.navbar {
+div.content, header.navbar, footer.bottom {
     border-radius: 10px;
     background: #555555;
     width: 80%;
