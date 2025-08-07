@@ -36,6 +36,10 @@ header.navbar nav a {
     color: #ff0000;
 }
 
+header.navbar nav a:hover {
+    background: #444444;
+}
+
 header.navbar nav a.active {
     background: #333333;
     font-weight: bold;
