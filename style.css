@@ -11,6 +11,10 @@ body {
     color: #ff0000;
 }
 
+a {
+    color: white;
+}
+
 header.navbar {
     height: 4em;
 }
